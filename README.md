@@ -1,5 +1,5 @@
 ## About
-I'm a first (soon to be second, although exam season has hands) year CompSci student at UKC. 
+I'm a second year CompSci student at UKC. 
 I've currently been working on a game engine called Macgyver in C++ using SDL2 and now box2D.
 Additonally I have started developing the first tools for the engine under the name DuckTape, mostly in python. 
 
